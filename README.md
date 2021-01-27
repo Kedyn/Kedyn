@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Kedyn Macedonio
 
 - 🔭 I’m currently working on [fusliez notes](https://github.com/Kedyn/fusliez-notes)
-- 🌱 I’m currently learning Phaser
+- 🌱 I’m currently learning Unity
 - 💬 Ask me about anything, I enjoy helping out.
 - 📫 How to reach me: mkedyn@gmail.com
 
